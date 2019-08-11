@@ -29,7 +29,8 @@
   width: 100%;
 }
 .background {
-  background: url(/img/architectural-design-architecture-building.jpg) no-repeat;
+  background: url(../img/architectural-design-architecture-building.jpg)
+    no-repeat;
   background-size: 100% 100%;
   opacity: 0.4;
   animation: scale-ani 20s linear infinite;
