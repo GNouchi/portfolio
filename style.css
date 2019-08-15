@@ -29,10 +29,11 @@
   width: 100%;
 }
 .background {
-  background: url(img/architectural-design-architecture-building.jpg) no-repeat;
+  background: url(img/architecture-columns-dark-1874636.jpg) no-repeat;
   background-size: 100% 100%;
-  opacity: 0.4;
   animation: scale-ani 20s linear infinite;
+  /* use opacity for brighter images  */
+  opacity: 0.9;
 }
 @keyframes scale-ani {
   50% {
